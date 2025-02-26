@@ -2,15 +2,21 @@
 title: Welcome fellow human!
 ---
 
-¡Hola! Soy Ulises y este es mi pequeño [jardín digital](https://jzhao.xyz/posts/networked-thought) ([hypertext](https://jzhao.xyz/thoughts/hypertext)).
+¡Hola! Soy Ulises y este es mi pequeño [jardín digital](https://jzhao.xyz/posts/networked-thought) ([hypertext](https://jzhao.xyz/thoughts/hypertext)).  
 Actualmente desarrollo de manera independiente un videojuego que saldrá pronto en Steam. Anteriormente he hecho muchos proyectos de software como freelance, trabajaba como ingeniero de Devops/SRE en Genera Games, y antes de eso entré como QA, pero estudié la carrera de Filosofía, ya que me mueve la pura curiosidad y por ello ante todo me considero generalista.
 
-Aquí comparto pensamientos que nacen del día a día en la bitácora, intentos de ensayo que espero profundizar poco a poco, anécdotas, y proyectos con los que estoy o tengo en mente realizar durante mi vida. En este sentido, creo que es importante que compartamos un cachito de nuestras experiencias personales, alimentar nuestra curiosidad, y poder ser influenciado asimismo por otros, como ya lo hicieron ciertas amistades y otros blogs que dejaré por aquí abajo. 
+
+Aquí comparto pensamientos que nacen del día a día en la bitácora, intentos de ensayo que espero profundizar poco a poco, anécdotas, y proyectos con los que estoy o tengo en mente realizar durante mi vida. En este sentido, creo que es importante que compartamos un cachito de nuestras experiencias personales, alimentar nuestra curiosidad, y poder ser influenciado asimismo por otros, como ya lo hicieron ciertas amistades y otros blogs que dejaré por aquí abajo.  
+
 
 Creo que es fundamental para crecer como humanos que profundicemos en los temas que nos interesan, que aprendamos de otros, de sus historias, sus [[Las anecdotas]], sus proyectos y de nuestros errores, y esto es limitado en el día a día por las interacciones personales. Por otro lado, internet nos habilita intercomunicarnos estés donde estés y a la hora que prefieras, sin embargo, en el día a día la mayoría de la gente solo usa las redes sociales para micro-interacciones sin mayor profundidad, y eso está bien para lo que es, pero compartir un pensamiento más estructurado es imposible. Por eso reivindico la vuelta a los espacios personales para compartir ese tipo de experiencia, que quede escrita, que por algo es el mejor invento de la humanidad.
 
-[!note] Nota
-Por supuesto, es difícil tener tiempo para compartir todos los pensamientos de la manera en que me gustaría, o para completar todos los proyectos que querría. Pero es muy importante tener en cuenta el [efecto de parálisis por análisis] por un lado, y por otro, de que siempre se puede [revisar] lo escrito. Es por ello que es a tener en cuenta que muchos escritos están a medio acabar o son simplemente bocetos de lo que me gustaría, pero si uno nunca empieza, que ya me costó para arrancar aquí, nunca termina. Y eso que lo importante no es terminar, -viaje antes que destino.
 
-[!quote] Cita
-“[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> [!note] A tener en cuenta
+> 
+> Por supuesto, es difícil tener tiempo para compartir todos los pensamientos de la manera en que me gustaría, o para completar todos los proyectos que querría. Pero es muy importante tener en cuenta el [efecto de parálisis por análisis] por un lado, y por otro, de que siempre se puede [revisar] lo escrito. Es por ello que es a tener en cuenta que muchos escritos están a medio acabar o son simplemente bocetos de lo que me gustaría, pero si uno nunca empieza, que ya me costó para arrancar aquí, nunca termina. Y eso que lo importante no es terminar, -viaje antes que destino.
+
+
+> [!quote] Cita
+>
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
