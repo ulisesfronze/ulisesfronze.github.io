@@ -12,5 +12,5 @@ Creo que es fundamental para crecer como humanos que profundicemos en los temas 
 [!note] Nota
 Por supuesto, es difícil tener tiempo para compartir todos los pensamientos de la manera en que me gustaría, o para completar todos los proyectos que querría. Pero es muy importante tener en cuenta el [efecto de parálisis por análisis] por un lado, y por otro, de que siempre se puede [revisar] lo escrito. Es por ello que es a tener en cuenta que muchos escritos están a medio acabar o son simplemente bocetos de lo que me gustaría, pero si uno nunca empieza, que ya me costó para arrancar aquí, nunca termina. Y eso que lo importante no es terminar, -viaje antes que destino.
 
-[!quote] Title
+[!quote] Cita
 “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
