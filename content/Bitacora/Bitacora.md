@@ -28,7 +28,7 @@ Cuando uno se pone a desarrollar un videojuego conviene recordar esta cita céle
     “The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” -Tom Cargill, Bell Labs.
 
 ##### 16-02-2025: 
-He visto las pelis de "13 lives" y "The help" y las recomiendo plenamente, son muy bonitas y el storytelling es brutal. He recordado por qué en la primera, Viggo Mortensen es un actorazo. En la segunda, se salen Viola Davis, Octavia Spencer y Emma Stone. Una pasada.
+He visto las pelis de "13 lives" y "The help" y las recomiendo plenamente, son muy bonitas y el storytelling es brutal.En la primera, Viggo Mortensen hace un papel brutal. En la segunda, se salen Viola Davis, Octavia Spencer y Emma Stone. Una pasada.
 
 ##### 20-02-2025: 
 He visto la primera temporada del anime ChainsawMan (12 caps). Al principio no me convencía, ya que parece el típico shonen, y hay una parte muy típica japonesa que es la del personaje salido con las tías. Pero me quedé porque me gustó el concepto de los demonios y los pactos con los humanos. También porque soy débil al tema tópico de que hay un personaje superior que esconde una sabiduría mucho más profunda sobre el universo en el que están, y te engancha para ver como el protagonista lo va descubriendo poco a poco. Well played.
