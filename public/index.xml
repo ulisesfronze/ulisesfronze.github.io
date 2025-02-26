@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Ulises&#039; Mind Palace</title>
+      <link>https://ulisesfronze.github.io</link>
+      <description>Last 10 notes on 🪴 Ulises&#039; Mind Palace</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Bitacora</title>
+    <link>https://ulisesfronze.github.io/Bitacora/Bitacora</link>
+    <guid>https://ulisesfronze.github.io/Bitacora/Bitacora</guid>
+    <description>Aquí iré añadiendo reflexiones del día a día a modo de diario (siempre que pueda), con el objetivo de que al escribirlas en ocasiones me lleve a profundizar más algunos temas, así como el hecho de compartir un poco experiencias personales, y ya de paso tenerlo todo recogido para poder echar la vista atrás y ver la evolución.</description>
+    <pubDate>Wed, 26 Feb 2025 22:20:44 GMT</pubDate>
+  </item><item>
+    <title>Proyectos</title>
+    <link>https://ulisesfronze.github.io/Proyectos/Proyectos</link>
+    <guid>https://ulisesfronze.github.io/Proyectos/Proyectos</guid>
+    <description>Tengo varios proyectos entre manos, y muchos más en el tintero. Algunos para un futuro casi imposible, pero aún así me gustaría escribir sobre ellos: 1.</description>
+    <pubDate>Wed, 26 Feb 2025 22:15:35 GMT</pubDate>
+  </item><item>
+    <title>Welcome fellow human!</title>
+    <link>https://ulisesfronze.github.io/</link>
+    <guid>https://ulisesfronze.github.io/</guid>
+    <description>¡Hola! Soy Ulises y este es mi pequeño jardín digital (hypertext). Actualmente desarrollo de manera independiente un videojuego que saldrá pronto en Steam.</description>
+    <pubDate>Wed, 26 Feb 2025 22:15:35 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

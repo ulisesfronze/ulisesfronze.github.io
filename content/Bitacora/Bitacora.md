@@ -6,7 +6,7 @@ draft: false
 ---
 Aquí iré añadiendo reflexiones del día a día a modo de diario (siempre que pueda), con el objetivo de que al escribirlas en ocasiones me lleve a profundizar más algunos temas, así como el hecho de compartir un poco experiencias personales, y ya de paso tenerlo todo recogido para poder echar la vista atrás y ver la evolución.
 
-25-07-2024: 
+#### 25-07-2024:
 Por recomendación me he leído el manhwa entero de "Solo Leveling". Tengo que decir que a pesar de parecer el típico shonen, esta muuuy bien llevado a cabo, se nota como los coreanos han llegado con ideas frescas que exploran muy bien tópicos ya establecidos y le dan un giro. En ese sentido, es increíble como está pensado para leerse desde el móvil, lo ajustan a la resolución y forma de scrollear y hace que sea increíblemente dinámico al leerlo. Comparandolo con el anime es que es como si ya lo hubieras visto, los efectos especiales y movimientos están muy bien recogidos de tal manera que es fácil de imaginar. Algo que creo genuinamente que no consiguen tanto la mayoría de mangas. También es importante que estén a todo color y no en blanco y negro, hay muchas más dimensiones para la expresión artística, y recoge mejor lo que se puede llegar a hacer hoy en día en diseño gráfico.
 
 30-01-2025: 
