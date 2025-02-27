@@ -1,5 +1,5 @@
 ---
-title: Cómo entré en una empresa de videojuegos desde Filosofía
+title: El primer alumno con prácticas de Filosofía
 tags: 
     - anecdota
 ---

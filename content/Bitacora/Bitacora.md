@@ -1,7 +1,7 @@
 ---
-title: Bitacora
+title: Bitácora
 tags: 
-    - bitacora
+    - bitácora
 draft: false
 ---
 

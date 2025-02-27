@@ -20,8 +20,8 @@ Algunos libros (que se me ocurren y seguro se me olvidan otros) en los que hay b
 - Pensar rápido, pensar despacio (D. Kahneman)
 - El hombre que confundió a su mujer con un sombrero (Oliver Sacks)    
 **Novelas**:   
-- El cuento número 13 (Diane Setterfield)
 - La elegancia del erizo (Muriel Barbery)
+- El cuento número 13 (Diane Setterfield)
 - La Odisea (Homero)
 - Un viejo que leía novelas de amor (Luis Sepúlveda)   
 **Webs**:   
