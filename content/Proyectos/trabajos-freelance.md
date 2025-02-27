@@ -1,5 +1,5 @@
 ---
-title: Software desarrollado de manera independiente
+title: Software dev
 ---
 
 He realizado muchos proyectos de software de manera independiente:
