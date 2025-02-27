@@ -25,7 +25,7 @@ Hay días más productivos y otros que no tienes ganas de nada. Hoy recordé por
 ##### 14-02-2025: 
 Cuando uno se pone a desarrollar un videojuego conviene recordar esta cita célebre sobre [el problema del último 10%](https://knowledgerelay.com/blog/the-last-ten-percent/):
 
- > “The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” -Tom Cargill, Bell Labs.
+> “The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” -Tom Cargill, Bell Labs.
 
 ##### 16-02-2025: 
 He visto las pelis de "13 lives" y "The help" y las recomiendo plenamente, son muy bonitas y el storytelling es brutal.En la primera, Viggo Mortensen hace un papel brutal. En la segunda, se salen Viola Davis, Octavia Spencer y Emma Stone. Una pasada.
