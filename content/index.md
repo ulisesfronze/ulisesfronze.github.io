@@ -2,8 +2,8 @@
 title: Welcome fellow human!
 ---
 
-¡Hola! Soy Ulises y este es mi pequeño [jardín digital](https://jzhao.xyz/posts/networked-thought) ([hypertext](https://jzhao.xyz/thoughts/hypertext)).  
-&nbsp;&nbsp;&nbsp;&nbsp;Actualmente desarrollo de manera independiente un videojuego que saldrá pronto en Steam. Anteriormente he hecho muchos proyectos de software como freelance, trabajaba como ingeniero de Devops/SRE en Genera Games, y antes de eso entré como QA, pero estudié la carrera de Filosofía, ya que me mueve la pura curiosidad y por ello ante todo me considero generalista.
+&nbsp;&nbsp;&nbsp;&nbsp;¡Hola! Soy Ulises y este es mi pequeño [jardín digital](https://jzhao.xyz/posts/networked-thought) ([hypertext](https://jzhao.xyz/thoughts/hypertext)).  
+&nbsp;&nbsp;&nbsp;&nbsp;Actualmente desarrollo de manera independiente un videojuego que saldrá pronto en Steam. Anteriormente he realizado [proyectos](Proyectos/trabajos-freelance.md) de software de manera independiente, y antes trabajaba como ingeniero de Devops/SRE en Genera Games, y antes de eso, me ficharon como QA Tester a través de unas prácticas extracurriculares desde la carrera de Filosofía, [una historia](Anecdotas/como-entre-Genera.md). Ya que me mueve la pura curiosidad, ante todo me considero [generalista](Anecdotas/generalista.md).
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aquí comparto pensamientos que nacen del día a día en la [bitácora](Bitacora/Bitacora.md), intentos de ensayo que espero profundizar poco a poco, anécdotas, y proyectos con los que estoy o tengo en mente realizar durante mi vida. En este sentido, creo que es importante que compartamos un cachito de nuestras experiencias personales, alimentar nuestra curiosidad, y poder ser influenciado asimismo por otros, como ya lo hicieron ciertas amistades y otros blogs que dejaré por aquí abajo.  
