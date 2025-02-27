@@ -20,12 +20,12 @@ Volviendo al piso de noche he recordado el olor de las escaleras y el piso de mi
 He re-descubierto el blog de [Garry Newman](garry.net), y me ha recordado la importancia de escribir las ideas y de qué divertido es leer las de otros. Me ha encantado el post sobre el "Handshake Game" en el que tienes que averigüar a cuantos apretones de mano estás de alguien famoso-importante. Me ha hecho pensar que estoy a 2 de Chomsky, ya que mi profesor de filosofía política en la carrera le dió la mano, e incluso hizo amistad y le escribió el prólogo de su libro. También le dí la mano a López-Catalán, presidente de Genera Games (donde trabajaba), y vicepresidente del Betis. Este le dió la mano a Pellegrini>Florentino>Rey y de ahí al infinito. También me hace gracia pensar que estoy a 2 del expresidente de Sega, Hayao Nakayama, que una vez vino a visitar GeneraGames.
 
 ##### 11-02-2025: 
-Hay días más productivos y otros que no tienes ganas de nada. Hoy recordé por qué un día decidí que quería ganar mucho dinero, y no para mí, sino para poder ayudar a otras personas. En esos días, hasta las tareas mundanas cobran sentido, vas a hacer la compra con tenacidad, comes con tenacidad, limpias con tenacidad, etc. Bastante cómico visto desde fuera la verdad, pero es curioso como se vive distinto, es como si toda la motivación del mundo te inundara y durante ese día te sientes imparable. Pero es difícil mantenerlo, porque la mente tiene días mejores y peores.
+Hay días más productivos y otros que no tienes ganas de nada. Hoy recordé por qué un día decidí que quería ganar mucho dinero, y no para mí, sino para poder ayudar a otras personas. En esos días, hasta las tareas mundanas cobran sentido, vas a hacer la compra con determinación, comes, limpias, etc. con determinación y tenacidad. Bastante cómico visto desde fuera la verdad, pero es curioso como se vive distinto, es como si toda la motivación del mundo te inundara y durante ese día te sientes imparable. Pero es difícil mantenerlo, porque la mente tiene días mejores y peores.
 
 ##### 14-02-2025: 
 Cuando uno se pone a desarrollar un videojuego conviene recordar esta cita célebre sobre [el problema del último 10%](https://knowledgerelay.com/blog/the-last-ten-percent/):
 
-    “The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” -Tom Cargill, Bell Labs.
+ > “The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.” -Tom Cargill, Bell Labs.
 
 ##### 16-02-2025: 
 He visto las pelis de "13 lives" y "The help" y las recomiendo plenamente, son muy bonitas y el storytelling es brutal.En la primera, Viggo Mortensen hace un papel brutal. En la segunda, se salen Viola Davis, Octavia Spencer y Emma Stone. Una pasada.
