@@ -13,18 +13,24 @@ A mí me interesan todas esas perspectivas, porque a medida que creces, te haces
 
 
 Algunos libros (que se me ocurren y seguro se me olvidan otros) en los que hay buenas anécdotas, tanto reales como ficticias:   
+
 **Biográficos**   
+
 - Creatividad S.A. (Ed Catmull)
 - ¿Está usted de broma Sr. _Feynman_? (R. Feynman)
 - Fedón (Platón)
 - Pensar rápido, pensar despacio (D. Kahneman)
 - El hombre que confundió a su mujer con un sombrero (Oliver Sacks)    
+
 **Novelas**:   
+
 - La elegancia del erizo (Muriel Barbery)
 - El cuento número 13 (Diane Setterfield)
 - La Odisea (Homero)
 - Un viejo que leía novelas de amor (Luis Sepúlveda)   
+
 **Webs**:   
+
 - [gemini://capsule.sergeeo.com](gemini://capsule.sergeeo.com)
 - [Garry Newman Blog](garry.net)
 - 
