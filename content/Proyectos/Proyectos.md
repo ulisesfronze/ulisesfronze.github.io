@@ -10,13 +10,13 @@ Tengo varios proyectos entre manos, y muchos más en el tintero. Algunos para un
 - El videojuego que estoy desarrollando, que es una mezcla entre Animal Crossing, Stardew Valley, entre muchos otros.
 - Me gustaría formalizar una empresa de videojuegos, y con ello, darle forma a múltiples ideas que tengo sobre posteriores juegos que tengo en mente realizar.
 
-Lo que en el futuro me gustaría realizar o al menos intentar:   
+Lo que en el futuro me gustaría realizar, pero vamos, soñar es gratis:   
 Conocimiento:   
 - Quiero hacer una web alternativa a Wikipedia (org sin ánimo de lucro, libre, etc), que se centre más en compartir conocimiento estructurado + sabiduría adquirida (no sólo info como wiki), de 0 to Hero para aprender diferentes temas, con todo el contenido preparado y diversas metodologías de aprendizaje, por ej: no solo texto, sino formatos audiovisuales e interactivos también.   
 - Una web, como la anterior, pero para resolución de debates de forma óptima: que se expongan todos los argumentos, se formalizen lógicamente, se retiren las falacias y se tenga en cuenta el conocimiento de la primera web para elegir la mejor respuesta, constantemente revisable.   
 - Mejorar el [sistema de publicación científica](Ensayos/publicaciones-cientificas.md), con una web FOSS, que permita a los investigadores subir, revisar, y compartir de una manera mucho más óptima papers. Que dejen de ser pdf's y sean nativos digitales.   
 - Crear un servicio para ayudar a investigadores, doctorandos y demás con tech. He visto a muy buenos investigadores, pero pocos saben apenas de programar, bigdata, infraestructura, dashboards, formatos de gráficas, etc. Debería ser un servicio complementario de las universidades a costo 0 para investigadores.
-- Otra organización sin ánimo de lucro que sea una academia de filosofía generalista, que enseñe un poco de todo: humanidades, ciencia, tech, talleres de hacking/workshops, arte, musica, etc. En un mundo de especialidades hacen falta mas gente con una perspectiva más general. 
+- Otra organización sin ánimo de lucro que sea una academia/universidad de filosofía generalista, que enseñe un poco de todo: humanidades, ciencia, tech, talleres de hacking/workshops, arte, musica, etc. En un mundo de especialidades hacen falta mas gente con una perspectiva más general. Más un espacio de investigación inspirado en Bell Labs y los actuales hackerspace/makerspaces.
 
 - Apoyo a niños/jovenes para salir de situaciones dificiles
 - fundacion para apoyo a personas en riesgo de pobreza
