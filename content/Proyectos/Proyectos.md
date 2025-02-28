@@ -10,7 +10,8 @@ Tengo varios proyectos entre manos, y muchos más en el tintero. Algunos para un
 - El videojuego que estoy desarrollando, que es una mezcla entre Animal Crossing, Stardew Valley, entre muchos otros.
 - Me gustaría formalizar una empresa de videojuegos, y con ello, darle forma a múltiples ideas que tengo sobre posteriores juegos que tengo en mente realizar.
 
-Lo que en el futuro me gustaría realizar, pero vamos, soñar es gratis:   
+Lo que en el futuro me gustaría realizar, pero vamos, *soñar es gratis*:   
+
 Conocimiento:   
 - Quiero hacer una web alternativa a Wikipedia (org sin ánimo de lucro, libre, etc), que se centre más en compartir conocimiento estructurado + sabiduría adquirida (no sólo info como wiki), de 0 to Hero para aprender diferentes temas, con todo el contenido preparado y diversas metodologías de aprendizaje, por ej: no solo texto, sino formatos audiovisuales e interactivos también.   
 - Una web, como la anterior, pero para resolución de debates de forma óptima: que se expongan todos los argumentos, se formalizen lógicamente, se retiren las falacias y se tenga en cuenta el conocimiento de la primera web para elegir la mejor respuesta, constantemente revisable.   
