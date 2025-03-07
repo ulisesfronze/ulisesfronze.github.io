@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Bluesky: "https://bsky.app/profile/youliesis.bsky.social",
       Mastodon: "https://mastodon.gamedev.place/@ulisesfronze",
+      RSS: "https://ulisesfronze.github.io/index.xml"
     },
   }),
 }

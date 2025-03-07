@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "es-ES",
     baseUrl: "ulisesfronze.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",

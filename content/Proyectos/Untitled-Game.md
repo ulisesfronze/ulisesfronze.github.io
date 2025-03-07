@@ -13,3 +13,5 @@ Sigo a montones de artistas que me han servido de inspiración en algunos casos 
 
 Entre los artistas que más me inspiran y que son absolutamente geniales están: Sarah Andersen, Gaziter, stefscribbles, amelicart, taiga kayama, yukichi, , Spec, BettyKwong, Walaysa, Inksaji, arthur (draw.burguers) y Marilia Nascimento, entre otros muchos.
 
+#wip
+
